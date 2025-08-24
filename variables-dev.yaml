@@ -1,13 +1,13 @@
-MONGODB_HOST: mongodb-dev.practicedevopsproject.online  # submit your host
-REDIS_HOST: redis-dev.practicedevopsproject.online 
-MYSQL_HOST: mysql-dev.practicedevopsproject.online 
-RABBITMQ_HOST: rabbitmq-dev.practicedevopsproject.online 
-CATALOGUE_HOST: catalogue.app-dev.practicedevopsproject.online
-USER_HOST: user.app-dev.practicedevopsproject.online
-CART_HOST: cart.app-dev.practicedevopsproject.online 
-SHIPPING_HOST: shipping.app-dev.practicedevopsproject.online 
-PAYMENT_HOST: payment.app-dev.practicedevopsproject.online 
-DISPATCH_HOST: dispatch.app-dev.practicedevopsproject.online
+MONGODB_HOST: mongodb-dev.mydevops3.online  # submit your host
+REDIS_HOST: redis-dev.mydevops3.online 
+MYSQL_HOST: mysql-dev.mydevops3.online 
+RABBITMQ_HOST: rabbitmq-dev.mydevops3.online 
+CATALOGUE_HOST: catalogue.app-dev.mydevops3.online
+USER_HOST: user.app-dev.mydevops3.online
+CART_HOST: cart.app-dev.mydevops3.online 
+SHIPPING_HOST: shipping.app-dev.mydevops3.online 
+PAYMENT_HOST: payment.app-dev.mydevops3.online 
+DISPATCH_HOST: dispatch.app-dev.mydevops3.online
 NEXUS_URL: http://172.31.5.95:8081/repository
 group_id: "com/roboshop"
 

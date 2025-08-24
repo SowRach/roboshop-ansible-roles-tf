@@ -1,10 +1,10 @@
-MONGODB_HOST: mongodb.practicedevopsproject.online # submit your host
-REDIS_HOST: redis.practicedevopsproject.online
-MYSQL_HOST: mysql.practicedevopsproject.online
-RABBITMQ_HOST: rabbitmq.practicedevopsproject.online
-CATALOGUE_HOST: catalogue.practicedevopsproject.online
-USER_HOST: user.practicedevopsproject.online
-CART_HOST: cart.practicedevopsproject.online
-SHIPPING_HOST: shipping.practicedevopsproject.online
-PAYMENT_HOST: payment.practicedevopsproject.online
-DISPATCH_HOST: dispatch.practicedevopsproject.online
+MONGODB_HOST: mongodb.mydevops3.online # submit your host
+REDIS_HOST: redis.mydevops3.online
+MYSQL_HOST: mysql.mydevops3.online
+RABBITMQ_HOST: rabbitmq.mydevops3.online
+CATALOGUE_HOST: catalogue.mydevops3.online
+USER_HOST: user.mydevops3.online
+CART_HOST: cart.mydevops3.online
+SHIPPING_HOST: shipping.mydevops3.online
+PAYMENT_HOST: payment.mydevops3.online
+DISPATCH_HOST: dispatch.mydevops3.online
