@@ -1,7 +1,7 @@
 # shipping_version: 1.0
 # mysql_password: RoboShop@1
 
-MYSQL_HOST: mysql-{{ env }}.practicedevopsproject.online
+MYSQL_HOST: mysql-{{ env }}.mydevops3.online
 MYSQL_ROOT_USER: root
 MYSQL_ROOT_PASSWORD: RoboShop@1
-CART_HOST: cart.-{{ env }}.practicedevopsproject.online
+CART_HOST: cart.-{{ env }}.mydevops3.online
